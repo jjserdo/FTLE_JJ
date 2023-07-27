@@ -14,9 +14,9 @@ Given a velocity field around a pitching airfoil, particles are instantiated and
   7. Find saddle points
 
 --- 
-## Created by
-Justine John A. Serdoncillo
-JJ
-University of Minnesota - Twin Cities
-Aerospace and Engineering Mechanics
-serdo004@umn.edu
+## Created by 
+Justine John A. Serdoncillo  
+JJ  
+University of Minnesota - Twin Cities  
+Aerospace and Engineering Mechanics  
+serdo004@umn.edu  
