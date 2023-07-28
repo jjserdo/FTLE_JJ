@@ -1,7 +1,7 @@
 ## Information about runs
-`Date`, `Time`: When the run was finished
-`time`,`space`: FTLE run time and grid size
-`inter`: Number of interpolated spaces between datasets
+`Date`, `Time`: When the run was finished  
+`time`, `space`: FTLE run time and grid size  
+`inter`: Number of interpolated spaces between datasets  
 
 | Date    | Time | time        | space    | inter |
 |---------|------|-------------|----------|-------|
@@ -12,8 +12,12 @@
 | 7/26/23 | 1607 | 66800-69800 | 500,400  | 4     |
 | 7/26/23 | 1633 | 72800-69800 | 500,400  | 4     |
 | 7/27/23 | 0814 | 63800-69800 | 1000,800 | 4     |
-|         |      |             |          |       |
-|         |      |             |          |       |
-|         |      |             |          |       |
-|         |      |             |          |       |
-|         |      |             |          |       |
+| 7/26/23 |      | 57800-63800 | 250,200  | 4     |
+| 7/26/23 |      | 69800-63800 | 250,200  | 4     |
+
+
+## Comments
+- [ ] Need a better naming convention for files
+- [ ] Batch processing
+- [ ] Run on a faster computer
+- [ ] Finish sweep on the wavelength
