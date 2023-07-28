@@ -1,4 +1,4 @@
-## Information about runs
+## Individual Runs
 `Date`, `Time`: When the run was finished  
 `time`, `space`: FTLE run time and grid size  
 `inter`: Number of interpolated spaces between datasets  
@@ -15,7 +15,13 @@
 | 7/26/23 | 1249 | 57800-63800 | 250,200  | 4     |
 | 7/26/23 | 1249 | 69800-63800 | 250,200  | 4     |
 
+## Batch Runs
+| Date      | Time | space   | inter |  target | range | dt  | ~runtime |
+|-----------|------|---------|-------|---------|-------|-----|----------|
+| 7/28/2023 |      | 250,200 | 4     | 69800   | 3000  | 200 | 6 hrs    |
+|           |      |         |       |         |       |     |          |
 
+---
 ## Comments
 - [ ] Need a better naming convention for files
 - [ ] Batch processing
