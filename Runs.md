@@ -16,6 +16,11 @@
 | 7/26/23 | 1249 | 69800-63800 | 250,200  | 4     |
 
 ## Batch Runs
+`Date`, `Time`: When the run was finished  
+`space`: FTLE run time and grid size  
+`inter`: Number of interpolated spaces between datasets 
+`target`, `range`, `dt`:  Center of analysis, range, and time difference between runs
+`~runtime`: Approximate run time for the entire batch 
 | Date      | Time | space   | inter |  target | range | dt  | ~runtime |
 |-----------|------|---------|-------|---------|-------|-----|----------|
 | 7/28/2023 |      | 250,200 | 4     | 69800   | 3000  | 200 | 6 hrs    |
