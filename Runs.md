@@ -33,6 +33,6 @@
 ---
 ## Comments
 - [ ] Need a better naming convention for files
-- [/] Batch processing
-- [/] Run on a faster computer
-- [/] Finish sweep on the wavelength
+- [x] Batch processing
+- [x] Run on a faster computer
+- [x] Finish sweep on the wavelength
