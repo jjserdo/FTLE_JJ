@@ -21,17 +21,18 @@
 `inter`: Number of interpolated spaces between datasets   
 `target`, `range`, `dt`:  Center of analysis, range, and time difference between runs    
 `~runtime`: Approximate run time for the entire batch   
+`comp`: Computer used to run batch 
 
-| Date      | Time | space   | inter |  target | range | dt  |      ~runtime    |
-|-----------|------|---------|-------|---------|-------|-----|------------------|
-| 7/29/2023 | 1137 | 250,200 | 4     | 69800   | 3000  | 200 | 10.5 hrs, 20 min |
-| 7/31/2023 |      | 500,400 | 4     | 69800   | 3000  | 200 |         , 77 min |
-| 8/  /2023 |      | 250,200 | 4     | 78800   | 3000  | 200 |                  |      
-|           |      |         |       |         |       |     |                  |
+| Date      | Time | space   | inter |  target | range | dt  |     ~runtime     | comp |
+|-----------|------|---------|-------|---------|-------|-----|------------------|------|
+| 7/29/2023 | 1137 | 250,200 | 4     | 69800   | 3000  | 200 | 10.5 hrs, 20 min | hp   |
+| 7/31/2023 |      | 500,400 | 4     | 69800   | 3000  | 200 |         , 77 min | hp   |
+| 8/  /2023 |      | 500,400 | 4     | 78800   | 3200  | 200 |                  | vr   |      
+|           |      |         |       |         |       |     |                  |      |
 
 ---
 ## Comments
 - [ ] Need a better naming convention for files
-- [ ] Batch processing
-- [ ] Run on a faster computer
-- [ ] Finish sweep on the wavelength
+- [/] Batch processing
+- [/] Run on a faster computer
+- [/] Finish sweep on the wavelength
