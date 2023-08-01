@@ -12,6 +12,18 @@ Given a velocity field around a pitching airfoil, particles are instantiated and
   5. Calculate FTLE field
   6. Filter regions of high FTLE values
   7. Find saddle points
+     
+---
+## Jupyter and Julia Setup 
+  1. Download "Anaconda Navigator"
+  2. Download "Julia"
+  3. Open Julia and run the following in the terminal
+     ```
+     import Pkg
+     Pkg.add("IJulia")
+     ```
+  4. Open Anaconda Navigator
+  5. Open "Jupyter Notebook" from the menu
 
 --- 
 ## Created by 
